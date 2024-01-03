@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "461547696321",
+    "project_id": "arapp1",
+    "storage_bucket": "arapp1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461547696321:android:230e4a3c48e5416b7ca440",
+        "android_client_info": {
+          "package_name": "com.example.furni"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMvpi34jZMDlCQfWLI8mzrlPv2utJEaAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
